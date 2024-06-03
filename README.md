@@ -12,7 +12,7 @@ In this pandemic, situation E-learning has proved a new and efficient method. Fo
 
 ## Live Demo
 
-The site is deployed throught Vercel, which you can view from [here](https://main--autosmart.netlify.app/)
+The site is deployed throught Netlify, which you can view from [here](https://main--autosmart.netlify.app/)
 
 Checkout the ppt from [here](https://www.canva.com/design/DAGHAMrCOn8/SFabdcwUxizL3goxLr2dvQ/edit)
 
@@ -52,12 +52,15 @@ From the project folder, run these commands in console (terminal) to install dep
 ## 🖼️ Some glimps of the site
 
 Home page
-![App Screenshot](https://github.com/Madmaxcoder2612/AutoSmart/blob/main/ReadmeImg/Home.png)
+![App Screenshot](https://github.com/RakeAditya/Autosmart/blob/main/src/assets/homepage.png)
 
-AR in action
-![App Screenshot](https://github.com/Madmaxcoder2612/AutoSmart/blob/main/ReadmeImg/F6%20Boxer.png)
+Services Section
+![App Screenshot](https://github.com/RakeAditya/Autosmart/blob/main/src/assets/main.png)
 
-![App Screenshot](https://github.com/Madmaxcoder2612/AutoSmart/blob/main/ReadmeImg/Turbofan.png)
+Ar Models
+![App Screenshot](https://github.com/RakeAditya/Autosmart/blob/main/src/assets/armodels.png)
 
 Chat Bot
 ![App Screenshot](https://github.com/Madmaxcoder2612/AutoSmart/blob/main/ReadmeImg/Chatbot.png)
+
+To use our Unity App for your AR models email us [mail](mailto:autosmart@gmail.com)
