@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+# AutoSmart
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Making Engineering, a Reality for You
 
-## Available Scripts
+<p align="center">
+<a href="#"><img width="300px" height="300px" align="center" src="https://github.com/Madmaxcoder2612/AutoSmart/blob/main/ReadmeImg/logo.png" height="175px"/></a>
+</p>
 
-In the project directory, you can run:
+## Problems It Solves
 
-### `npm start`
+In this pandemic, situation E-learning has proved a new and efficient method. For the past year, students are stuck in their homes and have attended numerous online classes. But online classes are monotonous and concepts taught are not retained by our minds. The situation becomes worse when a subject is mostly based on practicals because actually visualization is most important in such subjects as Mechanical Engineering, Biology and many more. With this application, we focus to solve this problem. It utilizes 3D, Augmented reality to give, real-life simulations or feels of various models and make the learning process more impactful and interesting. With an interactive live feature, students can ask the teacher their doubts instantly and also can discuss among themselves.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Live Demo
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The site is deployed throught Vercel, which you can view from [here](https://main--autosmart.netlify.app/)
 
-### `npm test`
+Checkout the ppt from [here](https://www.canva.com/design/DAGHAMrCOn8/SFabdcwUxizL3goxLr2dvQ/edit)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🚀 Features
 
-### `npm run build`
+- Interactive 3D Models
+- Click on the Perseverance Rover and get information about different parts
+- Learn with Augmented Reality
+- Chatbot Assistant
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 💻 Tech Stack
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- React Js <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> </a>
+- echoAR
+- Tailwind CSS & CSS <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🤝 Credits
 
-### `npm run eject`
+- AR: [echoAR](https://www.echoar.xyz/)
+- 3D Models: [sketchfab.com](https://sketchfab.com/)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Prerequisites
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Required to install and run the software:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- [npm](https://docs.npmjs.com/getting-started)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Installing and Running
 
-## Learn More
+From the project folder, run these commands in console (terminal) to install dependencies and run the app:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+  npm i --legacy-peer-deps
+  npm start
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🖼️ Some glimps of the site
 
-### Code Splitting
+Home page
+![App Screenshot](https://github.com/Madmaxcoder2612/AutoSmart/blob/main/ReadmeImg/Home.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+AR in action
+![App Screenshot](https://github.com/Madmaxcoder2612/AutoSmart/blob/main/ReadmeImg/F6%20Boxer.png)
 
-### Analyzing the Bundle Size
+![App Screenshot](https://github.com/Madmaxcoder2612/AutoSmart/blob/main/ReadmeImg/Turbofan.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Chat Bot
+![App Screenshot](https://github.com/Madmaxcoder2612/AutoSmart/blob/main/ReadmeImg/Chatbot.png)
